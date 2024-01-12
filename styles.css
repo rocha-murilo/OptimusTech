@@ -1,8 +1,9 @@
 @import url("styles/navbar.css");
+@import url("styles/cabecalho.css");
 
 :root {
     --cinza-titulo: #3A404E;
-    --cinza-links: #667085;
+    --cinza-claro: #667085;
     --cinza-destaques: #101828;
     --branco: #FFFFFF;
     --vermelho: #8E2424;
