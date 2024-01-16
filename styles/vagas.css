@@ -1,0 +1,29 @@
+.titulo__principal {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cinza-destaques);
+    padding: 2em 0 0.6em 0;
+}
+
+.vagas__card {
+    margin-top: 2em;
+    width: 768px;
+    height: 136px;
+    border: 1px solid var(--cinza-mais-claro);
+    border-radius: 16px;
+}
+
+.container__vagas {
+    text-align: left;
+    margin: 3em 0 3em 24em;
+}
+
+.textos__card {
+    padding-left: 0.2em;
+    display: flex;
+    gap: 24px;
+}
+
+.container__card__escrita {
+    margin: 1.2em;
+}

@@ -12,6 +12,7 @@
 .cabecalho__titulo {
     font-size: 48px;
     font-weight: 600;
+    padding-bottom: 0.8em;
 }
 
 .cabecalho__texto {
@@ -19,6 +20,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--cinza-claro);
+    width: 792px;
 }
 
 .cabecalho__texto-modificado {

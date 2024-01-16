@@ -1,0 +1,46 @@
+.depoimentos {
+    margin: 2em 3em;
+    padding: 2em 3em;
+}
+
+.depoimentos__avatar {
+    text-align: center;
+}
+
+.depoimentos__textos {
+    text-align: center;
+    padding: 5em 0 0 0;
+}
+
+.depoimentos__texto {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+    padding-bottom: 2.5em;
+}
+
+.depoimentos__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--cinza-destaques);
+    padding: 0 2em;
+}
+
+.avatar__imagem {
+    width: 56px;
+    height: 56px;
+    padding: 3em 0 1em 0;
+}
+
+.avatar__nome {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cinza-destaques);
+}
+
+.avatar__profissão {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    padding-top: 1em;
+}

@@ -1,0 +1,42 @@
+.talentos__alerta {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+    padding: 1em 0;
+}
+
+.talentos__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cinza-destaques);
+    padding: 0.5em 0;
+}
+
+.talentos__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    padding-bottom: 4em;
+}
+
+.container__talentos {
+    padding-top: 5em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.reuniao__imagem {
+    width: 1216px;
+    height: 400px;
+}
+
+.alerta {
+    background-color: var(--fundo-de-texto);
+    width: 120px;
+    border-radius: 16px;
+}
+
+.teste__posicao {
+    padding-left: 46vw;
+}

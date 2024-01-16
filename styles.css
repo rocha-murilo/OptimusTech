@@ -1,12 +1,18 @@
 @import url("styles/navbar.css");
 @import url("styles/cabecalho.css");
+@import url("styles/metricas.css");
+@import url("styles/talentos.css");
+@import url("styles/vagas.css");
+@import url("styles/depoimentos.css");
 
 :root {
     --cinza-titulo: #3A404E;
     --cinza-claro: #667085;
     --cinza-destaques: #101828;
+    --cinza-mais-claro: #EAECF0;
     --branco: #FFFFFF;
     --vermelho: #8E2424;
+    --fundo-de-texto: rgba(142, 36, 36, 0.05);
 
     --fonte-principal: 'Inter', sans-serif;
 }
